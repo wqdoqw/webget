@@ -4,7 +4,7 @@
 
 # How to use
 
-The webget utility should work as a command line program with command line parameters as
+The webget utility work as a command line program with command line parameters as
 follows:
 
 webget PROTOCOL://HOST/FILENAME
