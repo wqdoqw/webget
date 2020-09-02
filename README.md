@@ -9,7 +9,9 @@ follows:
 
 webget PROTOCOL://HOST/FILENAME
 
-For example,\
-webget http://www-net.cs.umass.edu/wireshark-labs/Wireshark_Intro_v7.0.pdf
+For example, go to the directory where webget.py is stored and on your cmd type\
+Python webget.py http://www-net.cs.umass.edu/wireshark-labs/Wireshark_Intro_v7.0.pdf
 \
 will add a pdf file in your current directory.
+
+##### Note this only works for a http protocol which uses a port number 80. 
